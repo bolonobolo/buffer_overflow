@@ -10,26 +10,27 @@ http://www-inst.eecs.berkeley.edu/~cs161/fa08/papers/stack_smashing.pdf
 https://drive.google.com/file/d/0B9sRdK_O9_nwMmM1cHEtRk5tUDA/edit
 
 ----------------------------------------------------------------------------------
-Generic guides on buffer overflow
+# Generic guides on buffer overflow
 http://www.cis.syr.edu/~wedu/seed/Book/book_sample_buffer.pdf
 https://beta.hackndo.com/buffer-overflow/
 ----------------------------------------------------------------------------------
 
-VulnServer
+# VulnServer
 http://www.thegreycorner.com/2010/12/introducing-vulnserver.html
-download
+
+### download
 https://github.com/stephenbradshaw/vulnserver
 
-Guida 1
-parte 1
+### Howto 1
+part 1
 https://resources.infosecinstitute.com/stack-based-buffer-overflow-tutorial-part-1-introduction/
 
-parte 2
+part 2
 https://resources.infosecinstitute.com/stack-based-buffer-overflow-tutorial-part-2-exploiting-the-stack-overflow/
 
-parte 3
+part 3
 https://resources.infosecinstitute.com/stack-based-buffer-overflow-tutorial-part-3-%E2%80%94-adding-shellcode/
 
-Guida 2
+### Howto 2
 https://sh3llc0d3r.com/category/vulnserver/
 -------------------------------------------------------------------------------------
