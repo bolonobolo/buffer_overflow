@@ -1,0 +1,34 @@
+Smashing The Stack For Fun And Profit
+
+Phrack originale
+http://phrack.org/issues/49/14.html
+
+PDF
+http://www-inst.eecs.berkeley.edu/~cs161/fa08/papers/stack_smashing.pdf
+
+PDF in Italiano
+https://drive.google.com/file/d/0B9sRdK_O9_nwMmM1cHEtRk5tUDA/edit
+----------------------------------------------------------------------------------
+Guide generiche sul buffer overflow
+http://www.cis.syr.edu/~wedu/seed/Book/book_sample_buffer.pdf
+https://beta.hackndo.com/buffer-overflow/
+
+----------------------------------------------------------------------------------
+VulnServer
+http://www.thegreycorner.com/2010/12/introducing-vulnserver.html
+download
+https://github.com/stephenbradshaw/vulnserver
+
+Guida 1
+parte 1
+https://resources.infosecinstitute.com/stack-based-buffer-overflow-tutorial-part-1-introduction/
+
+parte 2
+https://resources.infosecinstitute.com/stack-based-buffer-overflow-tutorial-part-2-exploiting-the-stack-overflow/
+
+parte 3
+https://resources.infosecinstitute.com/stack-based-buffer-overflow-tutorial-part-3-%E2%80%94-adding-shellcode/
+
+Guida 2
+https://sh3llc0d3r.com/category/vulnserver/
+-------------------------------------------------------------------------------------
