@@ -1,7 +1,7 @@
 This program should be compiled using the MinGW C compiler for Windows.<br>
 
 First compile the dll file:
-```gcc.exe -c basicfunc.c```
+```gcc.exe -c basicfunc.c```<br>
 ```gcc.exe -shared -o basicfunc.dll -Wl,--out-implib=libbasicfunc.a -Wl,--image-base=0x62500000 basicfunc.o```
 
 Now compile the main program:
