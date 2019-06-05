@@ -9,11 +9,10 @@ http://www-inst.eecs.berkeley.edu/~cs161/fa08/papers/stack_smashing.pdf
 ### PDF (Italian)
 https://drive.google.com/file/d/0B9sRdK_O9_nwMmM1cHEtRk5tUDA/edit
 
-----------------------------------------------------------------------------------
 # Generic guides on buffer overflow
 http://www.cis.syr.edu/~wedu/seed/Book/book_sample_buffer.pdf
 https://beta.hackndo.com/buffer-overflow/
-----------------------------------------------------------------------------------
+
 
 # VulnServer
 http://www.thegreycorner.com/2010/12/introducing-vulnserver.html
@@ -33,4 +32,3 @@ https://resources.infosecinstitute.com/stack-based-buffer-overflow-tutorial-part
 
 ### Howto 2
 https://sh3llc0d3r.com/category/vulnserver/
--------------------------------------------------------------------------------------
