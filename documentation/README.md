@@ -1,6 +1,7 @@
 # Smashing The Stack For Fun And Profit
 
-### Phrack magazine
+### Phrack magazine 
+The Aleph One article on BO
 http://phrack.org/issues/49/14.html
 
 ### PDF
