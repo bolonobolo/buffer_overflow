@@ -11,7 +11,11 @@ http://www-inst.eecs.berkeley.edu/~cs161/fa08/papers/stack_smashing.pdf
 https://drive.google.com/file/d/0B9sRdK_O9_nwMmM1cHEtRk5tUDA/edit
 
 # Generic guides on buffer overflow
-http://www.cis.syr.edu/~wedu/seed/Book/book_sample_buffer.pdf
+### The shellcoder's handbook
+https://doc.lagout.org/security/The%20Shellcoder%E2%80%99s%20Handbook.pdf<br>
+http://www.cis.syr.edu/~wedu/seed/Book/book_sample_buffer.pdf<br>
+
+### hackndo (french)
 https://beta.hackndo.com/buffer-overflow/
 
 
