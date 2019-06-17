@@ -1,5 +1,5 @@
 ## Basic usage
-The Evilserv is tested on Windows 7. Maybe in the future i'll test it on Windows 10 also.<br>
+The Evilserv is tested on Windows 7. Maybe in the future i'll test it on Windows 10 too.<br>
 Remeber to put exe and dll in the same folder. <br>
 By default the daemon start on port 666 but you can personilze the port by the command ```evilserv.exe <port>```<br>
 The server contain two function ```SUPERSECUREFUNC``` used in the talk for the practice part and ```SUPERSECUREFUNC2``` that need a 
