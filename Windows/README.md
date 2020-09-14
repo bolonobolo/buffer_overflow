@@ -1,7 +1,7 @@
 # Buffer Overflow
 Buffer Overflow repo for hackit talks
 
-Here you can find documentation, notes and scripts for talks on Buffer Overflow in Hackmeeting
+Here you can find documentation, notes and scripts for the Windows Buffer Overflow talk in Hackmeeting
 
 ## Binaries and source code 
 Here you can find the .exe, the .dll and the source code of the vulnerable daemon used in the talk.<br>
