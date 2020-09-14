@@ -18,6 +18,9 @@ http://www.cis.syr.edu/~wedu/seed/Book/book_sample_buffer.pdf<br>
 ### hackndo (french)
 https://beta.hackndo.com/buffer-overflow/
 
+### Bypass NX/DEP with ret2libc technique
+https://nandynarwhals.org/ret2libc-namedpipes/
+
 
 # VulnServer
 http://www.thegreycorner.com/2010/12/introducing-vulnserver.html
