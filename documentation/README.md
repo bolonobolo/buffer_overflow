@@ -1,14 +1,16 @@
 # Smashing The Stack For Fun ~~And Profit~~
 
-### Video rec of the talks
+### Video rec and slides of the talks
+Slides<br> 
+https://github.com/bolonobolo/buffer_overflow/blob/master/documentation/Basic%20Buffer%20Overflow.pdf
 
-Theory (italian)<br>
+Video Theory (italian)<br>
 https://gofile.io/d/jJepSO
 
-Windows practice (italian)<br>
+Video Windows practice (italian)<br>
 https://gofile.io/d/0Ow7qb
 
-Linux practice (italian)<br>
+Video Linux practice (italian)<br>
 https://gofile.io/d/pLEbXG
 
 ### Phrack magazine 
