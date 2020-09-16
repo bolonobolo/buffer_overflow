@@ -1,7 +1,7 @@
 # Buffer Overflow
 Buffer Overflow repo for hackit talks
 
-Here you can find documentation, notes and scripts for Buffer Overflow talks in Hackmeeting.
+Here you can find documentation, notes and scripts for Buffer Overflow talks in Hackmeeting.<br>
 Please, remember that the binaries used in these talks are vulnerable, so you are using them at your own risk!
 Don't try them in production.
 
