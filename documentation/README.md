@@ -1,5 +1,16 @@
 # Smashing The Stack For Fun And Profit
 
+### Video rec of the talks
+
+Theory (italian)
+https://gofile.io/d/jJepSO
+
+Windows practice (italian)
+https://gofile.io/d/0Ow7qb
+
+Linux practice (italian)
+https://gofile.io/d/pLEbXG
+
 ### Phrack magazine 
 The Aleph One article on BO <br>
 http://phrack.org/issues/49/14.html
