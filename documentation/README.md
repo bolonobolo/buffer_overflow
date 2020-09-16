@@ -2,13 +2,13 @@
 
 ### Video rec of the talks
 
-Theory (italian)
+Theory (italian)<br>
 https://gofile.io/d/jJepSO
 
-Windows practice (italian)
+Windows practice (italian)<br>
 https://gofile.io/d/0Ow7qb
 
-Linux practice (italian)
+Linux practice (italian)<br>
 https://gofile.io/d/pLEbXG
 
 ### Phrack magazine 
