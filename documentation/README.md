@@ -1,4 +1,4 @@
-# Smashing The Stack For Fun
+# Smashing The Stack For Fun ~~And Profit~~
 
 ### Video rec of the talks
 
