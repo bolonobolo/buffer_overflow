@@ -12,7 +12,7 @@ Linux practice (italian)<br>
 https://gofile.io/d/pLEbXG
 
 ### Phrack magazine 
-The Aleph One article on BO <br>
+The Aleph One article on BOF <br>
 http://phrack.org/issues/49/14.html
 
 ### PDF
